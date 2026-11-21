@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /design-system/
+
+Sitemap: https://osmanjavaid10.github.io/vaultline/sitemap.xml
